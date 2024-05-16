@@ -1,6 +1,6 @@
 --- Prepared by Titus Kaswii Muia ---
 
-# spatial-labs-app
+# Spatial Labs App
 
 Welcome to Spatial Labs React Native project for managing personal profiles, inspired by Linktree, tailored for iOS. This project allows users to create and customize their profiles, manage social media links, and maintain control over the layout of their accounts.
 
