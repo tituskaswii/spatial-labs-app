@@ -48,7 +48,7 @@ npx react-native start // or npm start, or yarn start
 
 Start the Application
 
-## IOS: Run the iOS app:
+## Android: Run the Android app:
 
 ```bash
 npx react-native run-android // npm run android // yarn android
@@ -56,7 +56,7 @@ npx react-native run-android // npm run android // yarn android
 
 This will launch the app on your Android simulator or device.
 
-## Android: Run the iOS app:
+## iOS: Run the iOS app:
 
 ```bash
 npx react-native run-ios  // npm run ios // yarn ios
